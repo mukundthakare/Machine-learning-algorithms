@@ -1,4 +1,4 @@
-#k-nn algoritham
+#k-Means algoritham using the package in R
 require("datasets")
 data(iris)
 str(iris)
